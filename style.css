@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
